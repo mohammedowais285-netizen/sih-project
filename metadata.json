@@ -1,0 +1,7 @@
+{
+  "name": "HelPerzzz Federation",
+  "description": "Cooperative-owned gig services platform connecting households with verified municipal artisans at ethical rates.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
